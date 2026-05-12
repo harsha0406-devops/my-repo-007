@@ -1,0 +1,2 @@
+user name = nvn02
+password = life 
